@@ -1,0 +1,19 @@
+# Dependencies / Large files
+*.pdf
+*.xlsx
+*.docx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OpenClaw
+.openclaw/
+
+# Build outputs
+*.pyc
+__pycache__/
+
+# Temp
+*.tmp
+*.log
