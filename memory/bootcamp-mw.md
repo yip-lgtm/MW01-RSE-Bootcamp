@@ -10,10 +10,11 @@
 - 圖則着色按 Appendix VI。
 - 每項目完成後貼報告草稿，我即時批改 + 補充。
 
-**目前進度（2026-05-09）**：
-- MW 1.6 Protective Barrier → ✅ **100% 完成**（Yau Lai Estate 完整 10 章報告）
-- MW 1.1 Internal Staircase → 模板就緒（下一個）
-- MW 1.5 & MW 1.27 → 待開始
+**目前進度（2026-05-11）**：
+- MW 1.6 Protective Barrier → ✅ 100% 完成（Yau Lai Estate 完整 10 章報告）
+- MW 1.5 Cantilever Support Removal → ✅ 完成
+- MW 1.1 Internal Staircase → 進行中
+- MW 1.27 Canopy → 待開始
 
 **總流程（4 步自學循環）**：
 1. 閱讀官方要求（本指令 + MWTGe.pdf）
