@@ -1,5 +1,12 @@
 # HEARTBEAT.md
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+# PolyU MSc IRE Bootcamp - 每週六 HKT 9:00
 
-# Add tasks below when you want the agent to check something periodically.
+# 用 OpenClaw Skill Cron 設定
+# 命名: polyu_ire_cron
+# Cron: 0 9 * * 6 (每週六朝早9點)
+
+# 任務：生成當週學習計劃
+# Command: /IRE
+
+# Active: Yes
