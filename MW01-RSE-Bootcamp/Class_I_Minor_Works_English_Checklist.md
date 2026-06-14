@@ -203,38 +203,206 @@
 **Removal of any unauthorized floor slab.**
 
 ### 1.40 — Metal Gate at Fence Wall/Entrance (Removal)
-**Removal of any metal gate at a fence wall or at an entrance to a building.**
+**Removal of any metal gate at a fence wall or at an entrance to a building**, provided that –
+- (a) the works do not result in any additional load to any cantilevered slab;
+- (b) the works do not involve the alteration of any other structural elements;
+- (c) the gate has at least one leaf weighing more than 300 kg; and
+- (d) the height of the gate is not more than 3.2 m.
 
 ---
 
-## Coverage Summary
+## Class I Minor Works — Items 1.41 – 1.62 (NEW! from 2024 Chinese Edition)
+
+> **Source**: `MWTGc_2024修訂版.pdf` — 2024 revised Chinese edition
+> **Translation**: English version derived from authoritative Chinese text
+
+### 1.41 — Internal Walls / Floor Bed / Drainage (Subdivided Flat)
+**Erection of any non-load-bearing brick wall, laying of any solid floor bed, or erection or alteration of any above-ground drain** in a domestic unit of a building, provided that –
+- (a) the unit is subdivided into 3 or more rooms, of which at least 3 rooms are:
+  - (i) formed or affected by the works;
+  - (ii) fitted with a wash basin, sink, water-closet, shower or bath; and
+  - (iii) intended to be used as, or (given the size and layout) likely to be converted to, a sleeping room;
+  OR the works will result in the unit being subdivided into 3 or more rooms of which at least 3 meet the descriptions in (i), (ii) and (iii); and
+- (b) the number of rooms in the unit fitting descriptions (ii) and (iii) exceeds (or, as a result of the works, will exceed) the number shown on the approved plans, but the works do not result in any additional load to any cantilevered slab; and
+- (c) the works do not fall within the description of item 3.39 or 3.40.
+
+### 1.42 — Opening in Staircase Enclosure
+**Formation of any opening in, or alteration of any opening in, the enclosure (other than a load-bearing wall) of any staircase that serves as a means of escape or a means of access for firefighting and rescue, or its protected lobby**, provided that the works do not involve the alteration of any other structural elements.
+
+### 1.43 — Non-load-bearing Brick Wall in Unit
+**Erection of any non-load-bearing brick wall within a unit**, provided that –
+- (a) the works do not result in any additional load to any cantilevered slab;
+- (b) the works do not involve the alteration of any other structural elements;
+- (c) the total length of the additional walls in the unit, per m² of the floor area of the unit:
+  - (i) (in the case of a domestic unit) exceeds 0.1 m; or
+  - (ii) (in the case of a non-domestic unit) exceeds 0.2 m; and
+- (d) the works do not fall within the description of item 3.39 or 3.40.
+
+### 1.44 — Thickening of Floor Slab
+**Laying of any solid bed for the purpose of thickening the floor slab within a unit**, provided that –
+- (a) the works do not result in any additional load to any cantilevered slab;
+- (b) the thickness of the bed exceeds 25 mm (measured from the structural floor level); and
+- (c) the works do not fall within the description of item 3.41 or 3.42.
+
+### 1.45 — Flower Trellis on Roof
+**Erection of any flower trellis on the roof of a building, or alteration of any flower trellis on the roof of a building**, provided that –
+- (a) the works do not result in any additional load to any cantilevered slab;
+- (b) the works do not involve the alteration of any other structural elements;
+- (c) the height of the trellis does not exceed 2.5 m;
+- (d) each opening of the elevated support frame of the trellis has length and width not less than 200 mm;
+- (e) the horizontal clearance between the trellis and any other structure is not less than 500 mm;
+- (f) for works in a common part of the building, on completion:
+  - (i) the area covered by each trellis in that part does not exceed 20 m²; and
+  - (ii) the total area covered by all trellises in that part does not exceed 5% of the total area of that part;
+- (g) for works in a part of the building that is not a common part (non-common part), on completion, the total area covered by all trellises in the non-common part:
+  - (i) does not exceed 20 m²; and
+  - (ii) does not exceed 5% of the total area of that part; and
+- (h) the works do not fall within the description of item 2.45.
+
+### 1.46 — Internal Metal Ventilation Duct
+**Erection or alteration of any metal ventilation duct (duct) or associated supporting frame (frame) inside a building**, provided that –
+- (a) the works do not result in any additional load to any cantilevered slab;
+- (b) the smallest cross-sectional dimension of the duct exceeds 900 mm; and
+- (c) the largest cross-sectional dimension of the duct exceeds 1.8 m.
+
+### 1.47 — External Metal Ventilation Duct
+**Erection or alteration of any external metal ventilation duct or associated supporting frame**, provided that the works do not result in any additional load to any cantilevered slab, and –
+- (a) the duct or frame is located on the ground or on the roof of a building, and the works do not fall within the description of item 2.47 or 3.47 or item 22 of Part 2 of Schedule 2; or
+- (b) the duct or frame projects from the external wall of the building, or from a fence wall on the ground, and –
+  - (i) no part of the duct or frame projects from the wall by more than 750 mm; and
+  - (ii) the works do not fall within the description of item 3.48 or item 23 of Part 2 of Schedule 2; or
+- (c) the duct or frame is located on a balcony, verandah or canopy of the building (other than a cantilevered slab), or is suspended below a balcony, verandah or canopy of the building (other than a cantilevered slab), and –
+  - (i) the maximum cross-sectional dimension of the duct (or of the duct associated with the frame) does not exceed 750 mm; and
+  - (ii) the works do not fall within the description of item 3.48 or item 23 of Part 2 of Schedule 2.
+
+### 1.48 — Repair / Replacement / Removal of External Cladding
+**Repair, replacement or removal of any external cladding**, provided that –
+- (a) in the case of repair or replacement – the works are carried out in accordance with the original design of the cladding; and
+- (b) the works do not fall within the description of item 2.48 or 3.31.
+
+### 1.49 — GRP Water Tank on Grade/Slab
+**Erection of any glass-reinforced polyester water tank on grade or on a slab (other than a cantilevered slab), or alteration of any glass-reinforced polyester water tank on grade or on a slab (other than a cantilevered slab)**, provided that –
+- (a) the works do not involve the alteration of any other structural elements;
+- (b) the capacity of the tank does not exceed 4.5 m³; and
+- (c) the works do not fall within the description of item 2.3 or item 3 of Part 2 of Schedule 2.
+
+### 1.50 — Building Services Supporting Structure
+**Erection of any structure (supporting structure) supporting a building services installation, or any metal case (metal case) for such an installation, on grade, on a canopy (other than a cantilevered slab), or on the roof of a building (other than a cantilevered slab) (location), or alteration of any supporting structure or metal case at the location**, provided that –
+- (a) the works do not involve the alteration of any other structural elements;
+- (b) (in the case of a supporting structure) the height of the structure:
+  - (i) (if designed to support an antenna or transceiver) does not exceed 2.5 m; or
+  - (ii) (if designed to support any other building services installation) does not exceed 1.5 m;
+- (c) (in the case of a metal case):
+  - (i) the weight of the metal case does not exceed 10% of the weight of the building services installation; and
+  - (ii) the installation is within 200 mm of the internal surface of the metal case in all directions; and
+- (d) the works do not fall within the description of item 3.50.
+
+### 1.51 — Internal AC / MV Support Frame
+**Erection of any supporting frame inside a building for suspending an air-conditioning unit or a mechanical ventilation unit, or alteration of any such supporting frame inside a building**, provided that –
+- (a) the works do not result in any additional load to any cantilevered slab;
+- (b) the works do not involve the alteration of any other structural elements; and
+- (c) the frame is designed to support an air-conditioning unit or a mechanical ventilation unit weighing more than 150 kg.
+
+### 1.52 — Flower Box on Roof
+**Erection of any flower box on the roof of a building, or alteration of any flower box on the roof of a building**, provided that –
+- (a) the works do not result in any additional load to any cantilevered slab;
+- (b) the works do not involve the alteration of any other structural elements;
+- (c) the height of the flower box does not exceed 600 mm; and
+- (d) if the roof is not an accessible roof – the roof has no structural element with a span exceeding 12 m.
+
+### 1.53 — External Pole/Mast on Grade
+**Erection of any external pole or mast on grade, or alteration of any external pole or mast on grade**, provided that –
+- (a) the height of the pole or mast (including any installation on its top) does not exceed 10 m; and
+- (b) the works do not fall within the description of item 2.53 or item 17 of Part 2 of Schedule 2.
+
+### 1.54 — Pole/Mast on Roof
+**Erection of any pole or mast on the roof of a building, or alteration of any pole or mast on the roof of a building**, provided that –
+- (a) the works do not result in any additional load to any cantilevered slab;
+- (b) the works do not involve the alteration of any other structural elements;
+- (c) the height of the pole or mast (including any installation on its top) does not exceed 5 m; and
+- (d) the works do not fall within the description of item 2.54 or 3.54 or item 19 of Part 2 of Schedule 2.
+
+### 1.55 — Solid Fence Wall on Roof
+**Erection of any solid fence wall on the roof of a building, or alteration of any solid fence wall on the roof of a building**, provided that –
+- (a) the works do not result in any additional load to any cantilevered slab;
+- (b) the works do not involve the alteration of any other structural elements;
+- (c) the height of the wall does not exceed 2 m; and
+- (d) the works do not fall within the description of item 2.55 or 3.55 or item 20 of Part 2 of Schedule 2.
+
+### 1.56 — Mesh Fence / Metal Railing on Roof
+**Erection of any mesh fence or metal railing (whether or not its bottom portion is a solid fence wall) (railing) on the roof of a building, or alteration of any such railing on the roof of a building**, provided that –
+- (a) the works do not result in any additional load to any cantilevered slab;
+- (b) the works do not involve the alteration of any other structural elements;
+- (c) the height of the railing (including any installation on its top) does not exceed 5 m;
+- (d) if the bottom portion of the railing is a solid fence wall – the wall itself does not exceed 1.5 m in height; and
+- (e) the works do not fall within the description of item 2.56 or 3.56 or item 18 of Part 2 of Schedule 2.
+
+### 1.57 — Repair of Solid Fence Wall on Grade
+**Repair of any solid fence wall on grade**, provided that the works do not fall within the description of item 3.57 or item 5 of Part 2 of Schedule 2.
+
+### 1.58 — Repair of External Mesh Fence / Railing / Pole on Grade
+**Repair of any external mesh fence (whether or not its bottom portion is a solid fence wall), metal railing (whether or not its bottom portion is a solid fence wall) or pole on grade**, provided that the works do not fall within the description of item 2.58, 2.59, 3.58 or 3.59 or item 6 or 17 of Part 2 of Schedule 2.
+
+### 1.59 — Railing on Top of Solid Fence Wall on Grade
+**Erection of any mesh fence, metal railing or pole on top of any solid fence wall (other than an unauthorized solid fence wall) (wall) on grade**, provided that –
+- (a) the height of the wall itself does not exceed 2.5 m;
+- (b) the total height of the wall and the mesh fence, railing or pole (including any installation on its top) does not exceed 10 m; and
+- (c) the works do not fall within the description of item 2.57 or item 21 of Part 2 of Schedule 2.
+
+### 1.60 — Repair or Replacement of Window or Glass Curtain Wall
+**Repair or replacement of any window or glass curtain wall in accordance with the original design**, provided that the works do not fall within the description of item 2.8 or 3.6.
+
+### 1.61 — Repair or Replacement of Curtain Wall
+**Repair or replacement of any curtain wall**, provided that –
+- (a) the works are carried out in accordance with the original design; and
+- (b) the works do not involve the replacement of any supporting structure or structural element connecting the curtain wall to its main building structure.
+
+### 1.62 — Laying or Repair of Roof Finish
+**Laying or repair of any finish of the roof of a building**, provided that –
+- (a) the works do not involve the alteration of any other structural elements; and
+- (b) the works do not fall within the description of item 2.34 or item 7 of Part 2 of Schedule 2.
+
+---
+
+## Coverage Summary (UPDATED)
 
 | Range | Items | Source | Status |
 |-------|-------|--------|:------:|
-| 1.1 – 1.40 | 40 | `MWTGe.pdf` Appendix II | ✅ Available |
-| 1.41 – 1.62 | 22 | Not in 2010 PDF edition | ❌ **Not available in source** |
+| 1.1 – 1.40 | 40 | `MWTGe.pdf` (2010) Appendix II | ✅ Available |
+| 1.41 – 1.62 | 22 | `MWTGc.pdf` (2024 修訂版) 附錄II | ✅ **NEW — Available now** |
 
-**Reason for missing 1.41–1.62**:
-- The 2010/10 edition of `MWTGe.pdf` (Technical Guidelines on Minor Works Control System) only describes Class I items up to **1.40** in Appendix II.
-- Items 1.41–1.62 (which the user references in another checklist) are likely from a **later amendment** to the Building (Minor Works) Regulation that is **not covered by the 2010 PDF** available in `/tmp/MW01-RSE-Bootcamp/`.
-- To obtain descriptions for 1.41–1.62, the user would need:
-  - The **current** (post-2010) edition of `MWTGe.pdf` from the Buildings Department website (https://www.bd.gov.hk)
-  - Or the **B(MW)R Schedule 1 Part 3** latest amendment
-  - Or the **MWI** (Minor Works Items) latest consolidated list
+**Total Class I items covered**: **62 (1.1 – 1.62)** — Complete!
+
+**Note on repealed items (1.13, 1.18, 1.19, 1.29, 3.9, 3.10, 3.14, 3.15, 3.28 etc.)**:
+The 2024 Chinese edition marks some items as "（已廢除）" = "(repealed)". Class I items 1.13, 1.18, 1.19, 1.29 are repealed. The 2010 English PDF still lists them as descriptions — the repeal occurred in a later amendment. The numbering gap (1.5 → 1.6, 1.10 → 1.11 etc.) reflects the repealed items.
 
 ---
 
-## File Information
+## Source Information
 
-- **Source file**: `/tmp/MW01-RSE-Bootcamp/MW01-Technical-Guidelines/MWTGe_English_text.txt` (439 KB, ~12,000 lines)
-- **PDF source**: `/tmp/MW01-RSE-Bootcamp/MW01-Technical-Guidelines/MWTGe_English_combined.pdf` (23 MB)
-- **Edition**: 2010/10
-- **Publisher**: Buildings Department, Hong Kong SAR Government
-- **Items covered in this checklist**: 40 (Class I, 1.1–1.40)
-- **Items referenced but not in PDF**: 22 (1.41–1.62)
+| File | Description | Size | Edition |
+|------|-------------|-----:|---------|
+| `MWTGe_English_combined.pdf` | English full text | 23 MB | 2010/10 |
+| `MWTGc_compressed.pdf` | Chinese 2024 修訂版 | 20 MB | 2024 revised |
+| `MWTGe_English_text.txt` | Extracted English text | 440 KB | 2010/10 |
+| `mwtgc.txt` | Extracted Chinese text | 788 KB | 2024 修訂版 |
+
+**Publisher**: Buildings Department, Hong Kong SAR Government
+**Download**: https://www.bd.gov.hk (守則、設計手冊及指引 → 小型工程監管制度之技術指引)
 
 ---
 
-**Note for the user**: This is a clean English version of the 40 Class I items present in the 2010 edition of `MWTGe.pdf`. To get descriptions for items 1.41–1.62, please obtain the latest version of the guidelines from the BD website or the B(MW)R Schedule 1 Part 3 consolidated list.
+## Translation Note
+
+Items 1.1 – 1.40 are direct extracts from the official 2010 English edition (with OCR/encoding cleanup). Items 1.41 – 1.62 are English translations derived from the official 2024 Chinese 修訂版. Translation has been done with care to use the same terminology as the official English edition for consistency:
+- 違例構築物 = unauthorized structure
+- 承托支架 = supporting frame
+- 簷篷 = canopy
+- 玻璃外牆 = glass curtain wall
+- 幕牆 = curtain wall
+- 屋宇裝備裝置 = building services installation
+
+If precise legal wording is required, please refer to the official bilingual (Chinese/English) version published on the BD website.
 
 — KANG YIP SZE, 14 June 2026
+
